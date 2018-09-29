@@ -1,0 +1,4 @@
+git add teste_02
+git add teste_02
+git add teste_02
+git add teste_02
